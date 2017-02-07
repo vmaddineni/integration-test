@@ -221,7 +221,7 @@
     <connection>scm:git:https://github.com/vmaddineni/maven-project.git</connection>
     <developerConnection>scm:git:https://github.com/vmaddineni/maven-project.git</developerConnection>
     <url>scm:git:https://github.com/vmaddineni/maven-project.git</url>
-    <tag>new-branch</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <prerequisites>
